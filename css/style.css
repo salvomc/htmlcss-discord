@@ -265,3 +265,113 @@ h5{
 
 /* fine main */
 
+/* footer */
+
+.f-jumbotron{
+    background-color: #23272A;
+}
+
+.f-row-1{
+    width: 100%;
+    padding-top: 60px;
+    display: flex;
+    justify-content: center;
+}
+
+h4{
+    margin-bottom: 25px;
+    font-size: 1.6rem;
+    color: #7289DA;
+}
+
+ul{
+    font-size: 0.9rem;
+    list-style-type: none;
+    color: #fff;
+}
+ 
+li{
+    margin: 15px 5px;
+}
+
+.flag{
+    width: 25px;
+}
+
+#arrow{
+    margin: 0px 8px 0px 10px;
+    font-size: 0.8rem;
+}
+
+
+.ul-logos{
+    font-size: 1rem;
+    display: flex;
+}
+
+.fa-instagram, .fa-facebook, .fa-youtube{
+    margin-left: 15px;
+}
+
+
+.f-row-2{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.f-col-70{
+    width: calc(70% - 50px);
+    margin: 10px 0px 30px 50px;
+    display: flex;
+}
+
+.f-col-30{
+    width: calc(30% - 50px);
+    margin: 10px 0px 30px 0px; 
+}
+
+.f-col-25{
+    width: calc(100% / 4);
+}
+
+.f-title{
+    font-weight: 600;
+    color: #7289DA;
+}
+
+.f-options{
+    padding: 10px 0px 10px 0px;
+    font-weight: 600;
+    font-size: 0.8rem;
+    color: #fff;
+}
+
+hr{
+    border: 1px solid #48557E;
+}
+
+.f-row-3{
+    padding: 20px 0px 0px 0px;
+    display: flex;
+    justify-content: center;
+}
+
+.f-col-3{
+    width: 100%;
+    margin: 5px 0px 60px 0px ;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.f-button{
+    padding: 10px 10px;
+    border-radius: 26px;
+    border: none;
+    background-color: #8EA1E1;
+    color: #fff;
+    font-weight: 600;
+}
+
+/* fine footer */
