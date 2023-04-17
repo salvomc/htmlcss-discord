@@ -169,10 +169,11 @@ span{
 .wave{
     opacity: 0.03;
     background-color: #F6F6F6;
+    margin-bottom: -3.5px;
+    width: 175%;
 }
 
 .wave-2{
-    font-size: 1rem;
     transform: scale(-1);
     background-color: #F6F6F6;
 }
@@ -182,18 +183,17 @@ span{
 }
 
 .row-rev{
-    margin: -4px 0px;
     display: flex;
     justify-content: center;
 }
 
 .col-70-rev{
-    width: 70%;
-    padding-left: 150px
+    width: 100%;
+    padding-left: 150px;
 }
 
 .col-30-rev{
-    width: 30%;
+    width: 40%;
     padding-top: 30px;
 }
 
@@ -210,7 +210,6 @@ span{
 
 .row-5{
     width: 100%;
-    margin: -4px 0px;
     display: flex;
     justify-content: center;
     align-items: center;
